@@ -1,0 +1,16 @@
+[project]
+name = "rag-pipeline-comparison"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=0.105.2",
+    "azure-ai-documentintelligence>=1.0.2",
+    "boto3>=1.43.19",
+    "openai>=2.40.0",
+    "pandas>=3.0.3",
+    "python-dotenv>=1.2.2",
+    "tabulate>=0.10.0",
+    "unstructured>=0.22.31",
+]
