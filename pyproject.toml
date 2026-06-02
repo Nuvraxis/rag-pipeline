@@ -1,8 +1,9 @@
 [project]
 name = "rag-pipeline-comparison"
 version = "0.1.0"
-description = "Add your description here"
+description = "Document Extraction Comparison — AWS Textract vs Azure Document Intelligence vs Unstructured.io"
 readme = "README.md"
+license = "MIT"
 requires-python = ">=3.13"
 dependencies = [
     "anthropic>=0.105.2",

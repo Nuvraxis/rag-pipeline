@@ -267,8 +267,16 @@ rag-pipeline-comparison/
 ├── patient_discharge_summary.pdf    # fictional NHS discharge summary (demo input)
 ├── .env.example                     # credential template
 ├── pyproject.toml                   # uv project + dependencies
+├── LICENSE                          # MIT
 └── README.md
 ```
+
+---
+
+## License
+
+Released under the [MIT License](LICENSE) — free to use, modify, and distribute
+for any purpose, commercial or otherwise.
 
 ---
 
