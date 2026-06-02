@@ -280,5 +280,5 @@ for any purpose, commercial or otherwise.
 
 ---
 
-*nuvraxis builds production Document AI + RAG pipelines.
+*Nuvraxis builds production Document AI + RAG pipelines.
 Contact: hello@nuvraxis.com · [nuvraxis.com](https://nuvraxis.com)*
